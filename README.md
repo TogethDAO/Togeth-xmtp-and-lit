@@ -4,7 +4,7 @@
 
 [Demo Site](http://203.195.224.157:3000/)
 
-TogethDAO build wallet-based chatroom with xmtp and leverage the lit protocol to control access for DAO members.
+TogethDAO builds wallet-based chatroom with xmtp and leverages the lit protocol to control access for DAO members.
 
 ## Build based on [xmtp example app](https://github.com/xmtp/example-chat-react).
 
