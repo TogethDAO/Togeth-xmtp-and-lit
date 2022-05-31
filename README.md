@@ -29,6 +29,7 @@ Open http://localhost:3000 with your browser to see the application.
 <br/>
 
 
+## (Original README)
 # React Chat Example
 
 ![Test](https://github.com/xmtp/example-chat-react/actions/workflows/test.yml/badge.svg)
